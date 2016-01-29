@@ -9,7 +9,7 @@ This is a music-playing program made for the Raspberry Pi.
 * Keeps the same playlist and currently-playing song if stopped, and resumes when turned back on
 
 ## How To Use
-1. This is designed to run on a Raspberry Pi with Raspbian installed. I don't know how or if this program will run on other operating systems or machines.<br><br>
+1. This is designed to run on a Raspberry Pi with Raspbian installed. I don't know how or if this program will run on other operating systems or machines. The particular model that I have is the Raspberry Pi 2 Model B.<br><br>
 2. Change the directory in the program to where you're storing your music
    * Default: ```songPath = "/media/pi/39A2-CB0B" ```
 3. Add any additional music formats that the program can recognize
